@@ -1,0 +1,7 @@
+{
+  "Redis": {
+    "Connection": "127.0.0.1:6379",
+    "DefaultExpirationDuration": 300,
+    "DefaultQueueSize": 500
+  }
+}
